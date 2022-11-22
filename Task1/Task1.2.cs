@@ -22,7 +22,7 @@ public class Program
                 return number - i;
             }
         }
-        return 1;
+        return 2;
     }
     public static void Main()
     {
